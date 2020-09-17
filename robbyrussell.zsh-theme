@@ -14,7 +14,7 @@ function precmd() {
   if [ $timer ]; then
     timer_show=$(($SECONDS - $timer))
     if [[ $timer_show -ge $min_show_time ]]; then
-      RPROMPT='%{$fg_bold[red]%}(${timer_show}s)%f%{$fg_bold[white]%}[%*]%f'
+      RPROMPT='%{$fg_bold[red]%}(${timer_show}s)%f%{$fg_bold[white]%}[%*]%f %{$reset_color%}%'
     else
       RPROMPT='%{$fg_bold[white]%}[%*]%f'
     fi
