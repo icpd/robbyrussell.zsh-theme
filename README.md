@@ -3,7 +3,7 @@ oh-my-zsh默认主题robbyrussell添加执行时间
 
 ## Screenshot
 
-![Screenshot.png](Screenshot.png)
+![Screenshot.png](https://img-blog.csdnimg.cn/67529d1e9cc6406daf98ce59c0179467.png#pic_center)
 
 ## Usage
 
