@@ -8,6 +8,6 @@ oh-my-zsh默认主题robbyrussell添加执行时间
 ## Usage
 
 ```sh
-wget -O ~/.oh-my-zsh/themes/robbyrussell.zsh-theme https://raw.githubusercontent.com/whoisix/robbyrussell.zsh-theme/master/robbyrussell.zsh-theme
+wget -O ~/.oh-my-zsh/themes/robbyrussell.zsh-theme https://raw.githubusercontent.com/icpd/robbyrussell.zsh-theme/master/robbyrussell.zsh-theme
 ```
 
