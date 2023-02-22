@@ -12,7 +12,7 @@ wget -O ~/.oh-my-zsh/themes/robbyrussell.zsh-theme https://raw.githubusercontent
 ```
 
 ## Other
-修改其他主题其实原理都一样。在目标主题文件中添加以下代表：
+修改其他主题其实原理都一样。在目标主题文件中添加以下代码：
 ```bash
 function preexec() {
   timer=${timer:-$SECONDS}
